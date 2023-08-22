@@ -62,6 +62,16 @@ CREATE TABLE "treatments"(
     "name" VARCHAR(255) NOT NULL
 );
 
+CREATE TABLE "medical_history_treatments" (
+    "id" SERIAL PRIMARY KEY,
+    "medical_history_id" INTEGER NOT NULL REFERENCES "medical_histories"("id"),
+    "treatment_id" INTEGER NOT NULL REFERENCES "treatments"("id")
+);
+
+CREATE INDEX "medical_history_treatments_medical_history_id_index" ON "medical_history_treatments"("medical_history_id");
+
+CREATE INDEX "medical_history_treatments_treatment_id_index" ON "medical_history_treatments"("treatment_id");
+
 ALTER TABLE
     "treatments"
 ADD
