@@ -64,8 +64,10 @@ CREATE TABLE "treatments"(
 
 CREATE TABLE "medical_history_treatments" (
     "id" SERIAL PRIMARY KEY,
-    "medical_history_id" INTEGER NOT NULL REFERENCES "medical_histories"("id"),
-    "treatment_id" INTEGER NOT NULL REFERENCES "treatments"("id")
+    "medical_history_id" INTEGER NOT NULL,
+    "treatment_id" INTEGER NOT NULL,
+    FOREIGN KEY ("medical_history_id") REFERENCES "medical_histories"("id"),
+    FOREIGN KEY ("treatment_id") REFERENCES "treatments"("id")
 );
 
 CREATE INDEX "medical_history_treatments_medical_history_id_index" ON "medical_history_treatments"("medical_history_id");
