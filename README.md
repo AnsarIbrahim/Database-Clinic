@@ -5,6 +5,7 @@
 **Database_clinic** is a database on pgadmin in my local environment using postgresql 15, a relational database. 
 
 </div>
+
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -21,7 +22,6 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ](#faq)
 - [📝 License](#license)
 
 # 📖 Database_clinic <a name="about-project"></a>
