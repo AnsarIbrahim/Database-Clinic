@@ -68,7 +68,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder using:
 cd my-folder
-  git clone https://github.com/AnsarIbrahim/Database_Clinic.git
+  git clone https://github.com/AnsarIbrahim/Database-Clinic.git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
