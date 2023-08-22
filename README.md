@@ -1,6 +1,10 @@
-# Database-Clinic
-Discover the power of data with Database Clinic! We offer expert database services tailored to your needs. From design and optimization to security and maintenance, our team ensures your data is efficient, secure, and always available. Trust us to diagnose, treat, and elevate your data's health.
+<div align="center">
+    <br/>
 
+# Database-Clinic
+**Database_clinic** is a database on pgadmin in my local environment using postgresql 15, a relational database. 
+
+</div>
 # 📗 Table of Contents
 
 - [📖 About the Project](#about-project)
@@ -21,8 +25,8 @@ Discover the power of data with Database Clinic! We offer expert database servic
 - [📝 License](#license)
 
 # 📖 Database_clinic <a name="about-project"></a>
+Discover the power of data with Database Clinic! We offer expert database services tailored to your needs. From design and optimization to security and maintenance, our team ensures your data is efficient, secure, and always available. Trust us to diagnose, treat, and elevate your data's health.
 
-*Database_clinic** is a database on pgadmin in my local environment using postgresql 15, a relational database. 
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -64,7 +68,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder using:
 cd my-folder
-  git clone https://github.com/ansaribrahim/database_clinic.git
+  git clone https://github.com/AnsarIbrahim/Database_Clinic.git
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 👥 Authors <a name="authors"></a>
@@ -78,7 +82,7 @@ cd my-folder
 👤 **Ansar Ibrahim**
 
 - [GitHub](https://github.com/AnsarIbrahim)
-- [LinkedIn](https://linkedin.com/in/ansar-ibrahim-61447424a/)
+- [LinkedIn](https://linkedin.com/in/ansar-ibrahim/)
 - [Twitter](https://twitter.com/ansaradheeb)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -94,7 +98,7 @@ cd my-folder
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/ansaribrahim/database_clinic/issues/new).
+Feel free to check the [issues page](https://github.com/AnsarIbrahim/Database-Clinic/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -106,14 +110,13 @@ If you like this project, I request you to show your support by giving it a star
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for proposing this project, and extend my heartfelt thanks to my fellow programmers for their assistance whenever required.
+I would like to thank Microverse for proposing this project, and extend my heartfelt thanks to my coding partner [Supretti](https://github.com/supreeti)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ <a name="faq"></a>
 
 ## 📝 License <a name="license"></a>
-This project is [MIT](https://github.com/ansaribrahim/database_clinic/blob/main/LICENSE) licensed.
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
